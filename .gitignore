@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Runtime SQLite databases (recreated when the apps start)
+database.db
+
+# Lab handout (provided by the instructor)
+Lab 8-Docker,containers, and images (1).docx
+
+# Word lock files
+~$*
